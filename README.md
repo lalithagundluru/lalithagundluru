@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science (Machine learning,Deep learning,NLP)
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects 
-- 📫 Reach me on Gamial -lalithagundluru1998@gmail.com
+- 📫 Reach me on Gmail -lalithagundluru1998@gmail.com
 
 <!---
 lalithagundluru/lalithagundluru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
