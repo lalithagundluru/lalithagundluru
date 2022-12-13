@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lalithagundluru 
 - 👀 I’m interested in Data Science (Machine learning,Deep learning,NLP)
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 Reach me on Gmail -lalithagundluru1998@gmail.com
 
